@@ -1,0 +1,25 @@
+@use 'variables';
+@use 'hero';
+@use 'description';
+@use 'footer';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+html, body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    width: 80vw;
+    max-width: 960px;
+    margin: 0 auto;
+}

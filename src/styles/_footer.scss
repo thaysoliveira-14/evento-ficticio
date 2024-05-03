@@ -1,0 +1,20 @@
+@use 'variables';
+
+.footer {
+    width: 100%;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    text-align: center;
+    font-family: variables.$textFont;
+    background-color: variables.$blue6;
+
+    &__text {
+        color: variables.$textColor;
+    }
+
+    &__link {
+        text-decoration: underline;
+        color: variables.$textColor;
+        font-weight: bold;
+    }
+}

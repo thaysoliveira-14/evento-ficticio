@@ -1,0 +1,71 @@
+@use 'variables';
+
+.main {
+    padding-top: 32px;
+    font-family: variables.$textFont;
+
+    &__title {
+        font-size: 1.5em;
+        padding-bottom: 16px;
+    }
+
+    .description{
+
+        width: 100%;
+
+        .container {
+            display: flex;
+            align-items: center;
+            gap: 40px;
+            padding: 32px 0;
+            
+            &.reverse {
+                flex-direction: row-reverse;
+            }
+        }
+
+        &__text {
+            text-align: justify;
+        }
+
+        &__img {
+            aspect-ratio: 1 / 1;
+            width: 100%;
+            height: 100%;
+            border-radius: 8px;
+            box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.511);
+        }
+
+        &.paris {
+        background: linear-gradient(to bottom, variables.$textColor, variables.$blue1);
+        }
+
+        &.roma {
+            background: linear-gradient(to bottom, variables.$blue1, variables.$blue2);
+            color: variables.$textColor;
+        }
+        &.madrid {
+            background: linear-gradient(to bottom, variables.$blue2, variables.$blue3);
+            color: variables.$textColor;
+        }
+        &.salzburg {
+            background: linear-gradient(to bottom, variables.$blue3, variables.$blue4);
+            color: variables.$textColor;
+        }
+        &.viena {
+            background: linear-gradient(to bottom, variables.$blue4, variables.$blue5);
+            color: variables.$textColor;
+        }
+        &.cracovia {
+            background: linear-gradient(to bottom, variables.$blue5, variables.$blue6);
+            color: variables.$textColor;
+        }
+
+
+    }
+
+        
+
+
+    
+}
