@@ -3,6 +3,7 @@
 .hero {
     width: 100%;
     position: relative;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.468);
 
     .gradient {
         background-color: rgb(0, 0, 0);
@@ -29,63 +30,94 @@
         left: 50%;
         transform: translate(-50%, -50%);
         text-align: center;
+        margin-top: 8px;
 
         > h1 {
             font-family: variables.$titleFont;
             color: variables.$textColor;
-            font-size: 3em;
-            margin-bottom: 16px;
+            font-size: 24px;
+            margin-bottom: 8px;
+
+            @media (min-width: 768px) and (max-width: 1023px) {
+                font-size: 32px;
+            }
+
+            @media (min-width: 1024px) {
+                font-size: 3em;
+            }
         }
 
         > p {
             font-family: variables.$textFont;
             color: variables.$textColor;
-            font-size: 2em;
+            font-size: 16px;
+
+            @media (min-width: 768px) and (max-width: 1023px) {
+                font-size: 24px;
+            }
+
+            @media (min-width: 1024px) {
+                font-size: 2em;
+            }
         }
 
         .hero__temporizador {
             font-family: variables.$titleFont;
             color: variables.$textColor;
-            width: max-content;
+            width: 70%;
+            white-space: nowrap;
             display: block;
-            font-size: 3em;
+            font-size: 16px;
             font-weight: 500;
-            margin: 8px auto;
-            padding: 16px 32px 48px 32px;
-            background-color: variables.$blue1;
-            border-radius: 16px;
+            margin: 6px auto;
+            padding: 8px 16px;
+            background-color: rgba(99, 126, 201, 0.793);
+            border-radius: 8px;
             border-top: 1px solid white;
             border-bottom: 1px solid black;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.673);
-            position: relative;
             text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.51);
-            color: rgb(17, 19, 58);
+            color: rgb(12, 14, 44);
 
-            .hero__data-viagem {
-                font-family: variables.$textFont;
-                color: variables.$textColor;
-                font-size: .4em;
-                position: absolute;
-                top: 70%;
-                left: 50%;
-                transform: translateX(-50%);
-                color: rgba(17, 19, 58, 0.808);
+            @media (min-width: 768px) and (max-width: 1023px) {
+                font-size: 24px;
             }
+
+            @media (min-width: 1024px) {
+                font-size: 2em;
+            }
+        }
         }
 
         .hero__btn {
-            margin-top: 32px;
+            margin-top: 10px;
             background-color: variables.$textColor;
             color: variables.$blue1;
-            padding: 16px;
+            padding: 6px;
             font-family: variables.$textFont;
-            font-size: 1em;
+            font-size: 12px;
             font-weight: bolder;
             border: none;
             border-radius: 8px;
             text-transform: uppercase;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.673);
             cursor: pointer;
+
+            &:hover {
+                background-color: variables.$blue1;
+                color: variables.$textColor;
+            }
+
+            @media (min-width: 768px) and (max-width: 1023px) {
+                font-size: 16px;
+                margin-top: 32px;
+                padding: 8px;
+            }
+
+            @media (min-width: 1024px) {
+                font-size: 20px;
+                margin-top: 40px;
+                padding: 10px;
+            }
         }
     }
-}

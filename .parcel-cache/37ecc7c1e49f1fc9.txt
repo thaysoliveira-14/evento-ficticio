@@ -1,4 +1,4 @@
-7782
+7783
 118C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-style-declaration.js133589706307894188 0
 97C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\package.json133589706752527120 0
 79C:\projeto_evento_ficticio\node_modules\caniuse-lite\data\features\autofocus.js133589706316182889 0
@@ -89,7 +89,7 @@
 65C:\projeto_evento_ficticio\node_modules\terser\lib\mozilla-ast.js133589706318781346 0
 70C:\projeto_evento_ficticio\node_modules\csso\node_modules\mdn-data\api133589706731981161 1
 96C:\projeto_evento_ficticio\node_modules\csso\node_modules\css-tree\lib\tokenizer\adopt-buffer.js133589706762003377 0
-31C:\projeto_evento_ficticio\dist133591785023447373 1
+31C:\projeto_evento_ficticio\dist133592588155263424 1
 44C:\projeto_evento_ficticio\node_modules\csso133589706742644905 1
 49C:\projeto_evento_ficticio\node_modules\callsites133589706287771587 1
 78C:\projeto_evento_ficticio\node_modules\node-abi\node_modules\semver\range.bnf133589736790615290 0
@@ -123,7 +123,7 @@
 88C:\projeto_evento_ficticio\node_modules\@swc\helpers\_\_object_spread_props\package.json133589706787802809 0
 111C:\projeto_evento_ficticio\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gfilterinputstream.h133117882010000000 0
 59C:\projeto_evento_ficticio\node_modules\type-fest\readme.md133589706286716407 0
-41C:\projeto_evento_ficticio\src\index.html133591782364390971 0
+41C:\projeto_evento_ficticio\src\index.html133592403598135773 0
 58C:\projeto_evento_ficticio\node_modules\json5\package.json133589706300878647 0
 93C:\projeto_evento_ficticio\node_modules\node-abi\node_modules\semver\ranges\to-comparators.js133589736804573495 0
 69C:\projeto_evento_ficticio\node_modules\sass\types\value\boolean.d.ts133589708683581082 0
@@ -131,16 +131,16 @@
 111C:\projeto_evento_ficticio\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133589706725486017 0
 38C:\projeto_evento_ficticio\src\scripts133589707986788532 1
 65C:\projeto_evento_ficticio\node_modules\posthtml-render\readme.md133589706291401055 0
-47C:\projeto_evento_ficticio\src\styles\main.scss133591779375426084 0
+47C:\projeto_evento_ficticio\src\styles\main.scss133592404371763923 0
 105C:\projeto_evento_ficticio\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-ot-deprecated.h133117882010000000 0
 79C:\projeto_evento_ficticio\node_modules\@swc\helpers\lib\_async_to_generator.js133589706747419351 0
 74C:\projeto_evento_ficticio\node_modules\xxhash-wasm\cjs\xxhash-wasm.js.map133589706292719387 0
 106C:\projeto_evento_ficticio\node_modules\legacy-swc-helpers\src\_class_static_private_field_destructure.mjs133589706749786862 0
-55C:\projeto_evento_ficticio\src\styles\_description.scss133591776704648241 0
+55C:\projeto_evento_ficticio\src\styles\_description.scss133592588257651765 0
 76C:\projeto_evento_ficticio\node_modules\svgo\plugins\removeOffCanvasPaths.js133589706735409629 0
 108C:\projeto_evento_ficticio\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-msole-utils.h133117882010000000 0
 59C:\projeto_evento_ficticio\node_modules\css-tree\cjs\syntax133589706730339472 1
-48C:\projeto_evento_ficticio\src\styles\_hero.scss133591785161146699 0
+48C:\projeto_evento_ficticio\src\styles\_hero.scss133592578450389192 0
 107C:\projeto_evento_ficticio\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-meta-names.h133117882010000000 0
 80C:\projeto_evento_ficticio\node_modules\csso\node_modules\css-tree\cjs\generator133589706759919925 1
 66C:\projeto_evento_ficticio\node_modules\simple-concat\package.json133589736792527669 0
@@ -148,7 +148,7 @@
 86C:\projeto_evento_ficticio\node_modules\legacy-swc-helpers\src\_is_native_function.mjs133589706754012202 0
 93C:\projeto_evento_ficticio\node_modules\csso\node_modules\css-tree\lib\syntax\config\lexer.js133589706768900610 0
 62C:\projeto_evento_ficticio\node_modules\safe-buffer\index.d.ts133589706288292371 0
-53C:\projeto_evento_ficticio\dist\index.555473ab.js.map133591785019085866 0
+53C:\projeto_evento_ficticio\dist\index.555473ab.js.map133592588153272591 0
 93C:\projeto_evento_ficticio\node_modules\legacy-swc-helpers\src\_class_private_method_init.mjs133589706749401630 0
 101C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo-node.js133589706731645801 0
 67C:\projeto_evento_ficticio\node_modules\type-fest\source\entry.d.ts133589706300692640 0
@@ -158,7 +158,7 @@
 67C:\projeto_evento_ficticio\node_modules\@parcel\utils\src\schema.js133589706750646382 0
 74C:\projeto_evento_ficticio\node_modules\caniuse-lite\data\features\webm.js133589706809370946 0
 51C:\projeto_evento_ficticio\node_modules\safe-buffer133589706287046997 1
-46C:\projeto_evento_ficticio\src\scripts\main.js133590883297806179 0
+46C:\projeto_evento_ficticio\src\scripts\main.js133592400039181945 0
 70C:\projeto_evento_ficticio\node_modules\nth-check\lib\compile.d.ts.map133589706293890279 0
 49C:\projeto_evento_ficticio\src\imagens\madrid.jpg133590917614353825 0
 86C:\projeto_evento_ficticio\node_modules\css-select\node_modules\domhandler\lib\node.js133589706727897677 0
@@ -354,7 +354,7 @@
 76C:\projeto_evento_ficticio\node_modules\css-what\lib\commonjs\types.d.ts.map133589706302198135 0
 128C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133589706300740981 0
 45C:\projeto_evento_ficticio\node_modules\chalk133589706290980485 1
-54C:\projeto_evento_ficticio\dist\index.6d04d9e6.css.map133591785023427359 0
+54C:\projeto_evento_ficticio\dist\index.6d04d9e6.css.map133592588155219134 0
 81C:\projeto_evento_ficticio\node_modules\@swc\helpers\lib\_class_name_tdz_error.js133589706752249789 0
 58C:\projeto_evento_ficticio\node_modules\chrome-trace-event133589706292707113 1
 56C:\projeto_evento_ficticio\node_modules\minimist\.github133589736801845482 1
@@ -1338,7 +1338,7 @@
 74C:\projeto_evento_ficticio\node_modules\@parcel\core\src\public\Symbols.js133589706764018798 0
 72C:\projeto_evento_ficticio\node_modules\svgo\plugins\sortDefsChildren.js133589706741166912 0
 91C:\projeto_evento_ficticio\node_modules\csso\node_modules\mdn-data\css\syntaxes.schema.json133589706736549607 0
-50C:\projeto_evento_ficticio\dist\index.6d04d9e6.css133591785023278612 0
+50C:\projeto_evento_ficticio\dist\index.6d04d9e6.css133592588155168583 0
 70C:\projeto_evento_ficticio\node_modules\@parcel\core\src\AssetGraph.js133589706735783916 0
 66C:\projeto_evento_ficticio\node_modules\tslib\modules\package.json133589706290299315 0
 98C:\projeto_evento_ficticio\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gfile.h133117882010000000 0
@@ -1371,7 +1371,7 @@
 50C:\projeto_evento_ficticio\node_modules\json5\dist133589706303516467 1
 106C:\projeto_evento_ficticio\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-tabs.h133117882010000000 0
 62C:\projeto_evento_ficticio\node_modules\legacy-swc-helpers\src133589706761374813 1
-67C:\projeto_evento_ficticio\dist\viena-austria-820x546.8ba4d820.jpeg133591785018122683 0
+67C:\projeto_evento_ficticio\dist\viena-austria-820x546.8ba4d820.jpeg133592588152640497 0
 50C:\projeto_evento_ficticio\node_modules\terser\bin133589706730183884 1
 64C:\projeto_evento_ficticio\node_modules\tar-fs\test\fixtures\b\a133589736801835490 1
 102C:\projeto_evento_ficticio\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gresolver.h133117882010000000 0
@@ -1493,7 +1493,7 @@
 79C:\projeto_evento_ficticio\node_modules\@parcel\packager-css\lib\CSSPackager.js133589706723306329 0
 92C:\projeto_evento_ficticio\node_modules\sharp\vendor\8.13.3\win32-x64\include\expat_config.h133117882010000000 0
 65C:\projeto_evento_ficticio\node_modules\terser\lib\utils\index.js133589706316095603 0
-51C:\projeto_evento_ficticio\dist\viena.605154e3.jpeg133591785018034772 0
+51C:\projeto_evento_ficticio\dist\viena.605154e3.jpeg133592588152536121 0
 57C:\projeto_evento_ficticio\node_modules\sass\types\legacy133589708685771680 1
 71C:\projeto_evento_ficticio\node_modules\terser\lib\compress\evaluate.js133589706313630044 0
 96C:\projeto_evento_ficticio\node_modules\@swc\helpers\cjs\_class_apply_descriptor_destructure.cjs133589706301558430 0
@@ -2011,7 +2011,7 @@
 96C:\projeto_evento_ficticio\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133589706745848537 1
 64C:\projeto_evento_ficticio\node_modules\safe-buffer\package.json133589706280859652 0
 60C:\projeto_evento_ficticio\node_modules\simple-get\README.md133589736794752793 0
-54C:\projeto_evento_ficticio\dist\salzburg.af8ab323.jpeg133591785018034772 0
+54C:\projeto_evento_ficticio\dist\salzburg.af8ab323.jpeg133592588152536121 0
 115C:\projeto_evento_ficticio\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts.map133589706738020936 0
 87C:\projeto_evento_ficticio\node_modules\css-select\node_modules\domhandler\package.json133589706728935099 0
 73C:\projeto_evento_ficticio\node_modules\simple-get\.github\dependabot.yml133589736797169594 0
@@ -4915,7 +4915,7 @@
 73C:\projeto_evento_ficticio\node_modules\@swc\helpers\src\_await_value.mjs133589706792185276 0
 86C:\projeto_evento_ficticio\node_modules\csso\node_modules\css-tree\cjs\utils\ident.cjs133589706745971379 0
 86C:\projeto_evento_ficticio\node_modules\csso\node_modules\css-tree\cjs\utils\names.cjs133589706752998512 0
-38C:\projeto_evento_ficticio\dist\styles133591785019189445 1
+38C:\projeto_evento_ficticio\dist\styles133592588153282564 1
 87C:\projeto_evento_ficticio\node_modules\csso\node_modules\css-tree\cjs\utils\string.cjs133589706758517961 0
 73C:\projeto_evento_ficticio\node_modules\css-select\lib\esm\compile.js.map133589706312904226 0
 97C:\projeto_evento_ficticio\node_modules\csso\node_modules\css-tree\cjs\tokenizer\adopt-buffer.cjs133589706723555352 0
@@ -6241,7 +6241,7 @@
 70C:\projeto_evento_ficticio\node_modules\binary-extensions\package.json133589708680242475 0
 62C:\projeto_evento_ficticio\node_modules\base64-js\package.json133589736791425094 0
 59C:\projeto_evento_ficticio\node_modules\base64-js\README.md133589736793438089 0
-52C:\projeto_evento_ficticio\dist\madrid.2cb31c16.jpeg133591785018024805 0
+52C:\projeto_evento_ficticio\dist\madrid.2cb31c16.jpeg133592588152566450 0
 59C:\projeto_evento_ficticio\node_modules\base-x\package.json133589706291443832 0
 61C:\projeto_evento_ficticio\node_modules\base-x\src\index.d.ts133589706294188967 0
 61C:\projeto_evento_ficticio\node_modules\argparse\CHANGELOG.md133589706292184572 0
@@ -6318,7 +6318,7 @@
 80C:\projeto_evento_ficticio\node_modules\@swc\helpers\_\_class_private_method_get133589706782866190 1
 81C:\projeto_evento_ficticio\node_modules\@swc\helpers\_\_class_private_method_init133589706782942767 1
 80C:\projeto_evento_ficticio\node_modules\@swc\helpers\_\_class_private_method_set133589706783207362 1
-49C:\projeto_evento_ficticio\dist\index.555473ab.js133591785018054720 0
+49C:\projeto_evento_ficticio\dist\index.555473ab.js133592588152524783 0
 91C:\projeto_evento_ficticio\node_modules\@swc\helpers\_\_class_static_private_field_spec_get133589706783523304 1
 87C:\projeto_evento_ficticio\node_modules\@swc\helpers\_\_class_static_private_method_get133589706785034938 1
 65C:\projeto_evento_ficticio\node_modules\@swc\helpers\_\_construct133589706785085233 1
@@ -7218,7 +7218,7 @@
 109C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\procedure.d.ts.map133589706305221884 0
 103C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\procedure.js133589706294137943 0
 107C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors133589706312092588 1
-42C:\projeto_evento_ficticio\dist\index.html133591785018385503 0
+42C:\projeto_evento_ficticio\dist\index.html133592588154857947 0
 101C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts133589706312717022 0
 124C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133589706300888618 0
 118C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.js133589706289670443 0
@@ -7418,7 +7418,7 @@
 93C:\projeto_evento_ficticio\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133589706730857913 0
 109C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.d.ts.map133589706304204685 0
 103C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.js133589706292300433 0
-60C:\projeto_evento_ficticio\dist\madrid-820x547.ecd0f54b.jpeg133591785017980550 0
+60C:\projeto_evento_ficticio\dist\madrid-820x547.ecd0f54b.jpeg133592588152536121 0
 105C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\types.d.ts133589706312676398 0
 122C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.js133589706278942851 0
 122C:\projeto_evento_ficticio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.js133589706289702119 0
@@ -7443,7 +7443,7 @@
 65C:\projeto_evento_ficticio\node_modules\@parcel\markdown-ansi\lib133589706292060945 1
 110C:\projeto_evento_ficticio\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src133589706742611287 1
 118C:\projeto_evento_ficticio\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js133589706742611287 0
-70C:\projeto_evento_ficticio\dist\salzburg-austria-820x546.0267bcb1.jpeg133591785018122683 0
+70C:\projeto_evento_ficticio\dist\salzburg-austria-820x546.0267bcb1.jpeg133592588152640497 0
 110C:\projeto_evento_ficticio\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\other.js133589706736564736 0
 108C:\projeto_evento_ficticio\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\package.json133589706753162832 0
 114C:\projeto_evento_ficticio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude133589706746209299 1
@@ -7706,6 +7706,7 @@
 86C:\projeto_evento_ficticio\node_modules\@jridgewell\trace-mapping\dist\types\sort.d.ts133589706297905763 0
 72C:\projeto_evento_ficticio\node_modules\@jridgewell\sourcemap-codec\dist133589706292310395 1
 77C:\projeto_evento_ficticio\node_modules\@jridgewell\sourcemap-codec\README.md133589706290361368 0
+80C:\projeto_evento_ficticio\dist\projeto_evento_ficticio.59712999.js.map.17844.30133592388316694552 0
 92C:\projeto_evento_ficticio\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.mjs133589706291860636 0
 95C:\projeto_evento_ficticio\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js133589706278191511 0
 70C:\projeto_evento_ficticio\node_modules\@jridgewell\source-map\LICENSE133589706274039784 0
@@ -7768,16 +7769,16 @@
 55C:\projeto_evento_ficticio\node_modules\.bin\terser.cmd133589706821704624 0
 55C:\projeto_evento_ficticio\node_modules\.bin\terser.ps1133589706821694638 0
 67C:\projeto_evento_ficticio\node_modules\.bin\update-browserslist-db133589706821694638 0
-72C:\projeto_evento_ficticio\dist\cracovia-polonia-2-562x396.84aae5d6.jpeg133591785017980550 0
-54C:\projeto_evento_ficticio\dist\cracovia.3f961752.jpeg133591785018034772 0
-59C:\projeto_evento_ficticio\dist\paris-820x546.2514a2f1.jpeg133591785017980550 0
-51C:\projeto_evento_ficticio\dist\paris.45126321.jpeg133591785018014838 0
-67C:\projeto_evento_ficticio\dist\projeto_evento_ficticio.59712999.js133591785018054720 0
-71C:\projeto_evento_ficticio\dist\projeto_evento_ficticio.59712999.js.map133591785019085866 0
-70C:\projeto_evento_ficticio\dist\roma-italia_1067-593x396.36ff76fc.jpeg133591785017980550 0
-50C:\projeto_evento_ficticio\dist\roma.a429f717.jpeg133591785018014838 0
-39C:\projeto_evento_ficticio\dist\scripts133591785019189445 1
-47C:\projeto_evento_ficticio\dist\styles\main.css133591785018044741 0
-51C:\projeto_evento_ficticio\dist\styles\main.css.map133591785019085866 0
-47C:\projeto_evento_ficticio\dist\scripts\main.js133591785018044741 0
-51C:\projeto_evento_ficticio\dist\scripts\main.js.map133591785019085866 0
+72C:\projeto_evento_ficticio\dist\cracovia-polonia-2-562x396.84aae5d6.jpeg133592588152536121 0
+54C:\projeto_evento_ficticio\dist\cracovia.3f961752.jpeg133592588152566450 0
+59C:\projeto_evento_ficticio\dist\paris-820x546.2514a2f1.jpeg133592588152536121 0
+51C:\projeto_evento_ficticio\dist\paris.45126321.jpeg133592588152536121 0
+67C:\projeto_evento_ficticio\dist\projeto_evento_ficticio.59712999.js133592588152534738 0
+71C:\projeto_evento_ficticio\dist\projeto_evento_ficticio.59712999.js.map133592588153157868 0
+70C:\projeto_evento_ficticio\dist\roma-italia_1067-593x396.36ff76fc.jpeg133592588152536121 0
+50C:\projeto_evento_ficticio\dist\roma.a429f717.jpeg133592588152579816 0
+39C:\projeto_evento_ficticio\dist\scripts133592588153174370 1
+47C:\projeto_evento_ficticio\dist\styles\main.css133592588152524783 0
+51C:\projeto_evento_ficticio\dist\styles\main.css.map133592588153157868 0
+47C:\projeto_evento_ficticio\dist\scripts\main.js133592588152534738 0
+51C:\projeto_evento_ficticio\dist\scripts\main.js.map133592588153157868 0

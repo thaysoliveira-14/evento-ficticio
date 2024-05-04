@@ -7,6 +7,16 @@
     &__title {
         font-size: 1.5em;
         padding-bottom: 16px;
+
+        @media (max-width: 767px) {
+            font-size: 1.7em;
+            text-align: center;
+        }
+
+        @media (min-width: 768px) and (max-width:1023px) {
+            font-size: 2em;
+            text-align: center;
+        }
     }
 
     .description{
@@ -18,6 +28,14 @@
             align-items: center;
             gap: 40px;
             padding: 32px 0;
+
+            @media (max-width: 767px) {
+                display: block;
+            }
+
+            @media (min-width: 768px) and (max-width:1023px) {
+                font-size: 16px;
+            }
             
             &.reverse {
                 flex-direction: row-reverse;
@@ -26,6 +44,10 @@
 
         &__text {
             text-align: justify;
+
+            @media (max-width:767px) {
+                margin-bottom: 16px;
+            }
         }
 
         &__img {

@@ -10,6 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+    <link href="https://unpkg.com/aos@next/dist/aos.css" rel="stylesheet">
 </head>
 <body>
     <header class="hero">
@@ -24,20 +25,18 @@
         <div class="gradient"></div>
         <div class="container">
             <h1>Tour pela Europa</h1>
-            <p>Faltam apenas</p>
+            <p id="p__hero">Faltam apenas</p>
 
-            <span class="hero__temporizador">20d 12h 25m 12s
-                <span class="hero__data-viagem">- 24/Abril/2025 -</span>
+            <span class="hero__temporizador" id="contador">
             </span>
-            
-            <p>para nossa viagem começar</p>
-            <button type="button" class="hero__btn">Eu quero ir!</button>
+            <p id="p__hero2">para nossa viagem começar</p>
+            <button type="button" class="hero__btn" id="hero__btn">Eu quero ir!</button>
         </div>
     </header>
     <main class="main">
         <h2 class="main__title container">Destinos</h2>
         <section class="description paris">
-            <div class="container">
+            <div class="container" data-aos="fade-right">
                 <div class="description__div">
                     <h3 class="description__title">Paris - França</h3>
                     <p class="description__text">Paris, conhecida como a "Cidade Luz", é famosa por sua arquitetura icônica, culinária requintada e rica história cultural. Lar da majestosa Torre Eiffel, da deslumbrante Catedral de Notre-Dame e do charmoso bairro de Montmartre, Paris cativa seus visitantes com sua beleza romântica e atmosfera vibrante. Passear pelas margens do rio Sena, explorar os mundialmente famosos museus como o Louvre e saborear delícias gastronômicas em seus cafés encantadores são apenas algumas das experiências que essa cidade deslumbrante oferece.</p>
@@ -46,7 +45,7 @@
             </div>
         </section>
         <section class="description roma">
-            <div class="container reverse">
+            <div class="container reverse" data-aos="fade-left">
                 <div class="description__div">
                     <h3 class="description__title">Roma - Itália</h3>
                     <p class="description__text">Roma, a "Cidade Eterna", é um tesouro de história antiga e cultura vibrante. Esta cidade fascinante é o lar de monumentos icônicos como o Coliseu, o Fórum Romano e o Pantheon, que testemunham o esplendor do Império Romano. Passear pelas ruas de paralelepípedos, descobrir tesouros artísticos em cada esquina e deliciar-se com a autêntica culinária italiana são apenas algumas das experiências que aguardam os visitantes nesta cidade encantadora e cheia de vida.</p>
@@ -55,7 +54,7 @@
             </div>
         </section>
         <section class="description madrid">
-            <div class="container">
+            <div class="container" data-aos="fade-right">
                 <div class="description__div">
                     <h3 class="description__title">Madrid - Espanha</h3>
                     <p class="description__text">Madrid, a vibrante capital da Espanha, combina a rica herança histórica com uma cena cultural moderna. Conhecida por seus magníficos museus, como o Museu do Prado e o Centro de Arte Reina Sofía, Madri encanta seus visitantes com sua arquitetura impressionante, parques exuberantes e uma animada vida noturna. Passear pela Gran Vía, saborear tapas em tabernas tradicionais e explorar os bairros históricos como La Latina e Malasaña são experiências imperdíveis nesta cidade apaixonante.</p>
@@ -64,7 +63,7 @@
             </div>
         </section>
         <section class="description salzburg">
-            <div class="container reverse">
+            <div class="container reverse" data-aos="fade-left">
                 <div class="description__div">
                     <h3 class="description__title">Salzburg - Áustria</h3>
                     <p class="description__text">Salzburg, a cidade natal de Mozart, é um destino encantador situado nas deslumbrantes paisagens alpinas da Áustria. Conhecida por sua arquitetura barroca, ruas de paralelepípedos e festivais de música clássica, Salzburgo oferece uma atmosfera única e cativante. Explorar o centro histórico, visitar as famosas fortalezas Hohensalzburg e Mirabell e desfrutar de uma experiência musical única são algumas das muitas razões pelas quais os viajantes se apaixonam por esta cidade encantadora.</p>
@@ -73,7 +72,7 @@
             </div>
         </section>
         <section class="description viena">
-            <div class="container">
+            <div class="container" data-aos="fade-right">
                 <div class="description__div">
                     <h3 class="description__title">Viena - Áustria</h3>
                     <p class="description__text">Viena, a elegante capital da Áustria, é um centro cultural e artístico de renome mundial. Lar de magníficos palácios imperiais, como Schönbrunn e Belvedere, e uma rica tradição musical que inclui compositores como Beethoven e Strauss, Viena oferece uma experiência verdadeiramente única. Passear pelas ruas ornamentadas, saborear café vienense em cafés históricos e assistir a uma apresentação na famosa Ópera Estatal de Viena são apenas algumas das muitas maneiras de explorar esta cidade fascinante.</p>
@@ -82,7 +81,7 @@
             </div>
         </section>
         <section class="description cracovia">
-            <div class="container reverse">
+            <div class="container reverse" data-aos="fade-left">
                 <div class="description__div">
                     <h3 class="description__title">Cracóvia - Polônia</h3>
                     <p class="description__text">Cracóvia, uma jóia medieval no coração da Polônia, é uma cidade repleta de história, arte e cultura. Com seu impressionante centro histórico listado como Patrimônio Mundial da UNESCO, Cracóvia oferece aos visitantes uma viagem no tempo através de suas belas praças, igrejas ornamentadas e castelos imponentes. Explorar a cidade velha, visitar o Castelo Real de Wawel e testemunhar a comovente história do Holocausto no antigo campo de concentração de Auschwitz-Birkenau são experiências que deixam uma marca duradoura em quem visita esta cidade encantadora.</p>
@@ -96,6 +95,7 @@
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="../dist/scripts/main.js"></script>
 </body>
