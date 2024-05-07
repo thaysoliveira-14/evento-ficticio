@@ -10,7 +10,7 @@ $('.hero__carousel').slick({
     adaptativeHeight: true
 });
 
-const dataDoEvento = new Date("Apr 24, 2024 15:00:00")
+const dataDoEvento = new Date("Apr 24, 2025 15:00:00")
 const timeStampDoEvento = dataDoEvento.getTime()
 
 const contaAsHoras = setInterval(function() {
